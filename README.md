@@ -17,6 +17,8 @@ You can change jQuery selector.
 
 JS
 ==========
+```
 jQuery( document ).ready( function( $ ) {
 	$( 'input[type="file"]' ).prettyFile();
 });
+```
