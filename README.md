@@ -21,13 +21,11 @@ Include `bootstrap-prettyfile.js` into your page
 <script src="bootstrap-prettyfile.js"></script>
 ```
 
-```
-<script>
-    $( 'input[type="file"]' ).prettyFile();
-</script>
-```
+Use it (you can change jQuery selector)
 
-You can change jQuery selector
+```
+$( 'input[type="file"]' ).prettyFile();
+```
 
 ## Samples
 
