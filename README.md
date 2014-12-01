@@ -8,20 +8,28 @@ Works for multi files and single files
 
 ![alt text](http://i30.photobucket.com/albums/c316/Tilosag/boostrap-pfu.png "Logo Title Text 1")
 
+## Requirements
+
+- Bootstrap 3 
+- jQuery
+
 ## Instructions
 
-Include JS into your page
+Include `bootstrap-prettyfile.js` into your page
 
-use script below
+```
+<script src="bootstrap-prettyfile.js"></script>
+```
 
-## jQuery usage
-```javascript
-$( 'input[type="file"]' ).prettyFile();
+```
+<script>
+    $( 'input[type="file"]' ).prettyFile();
+</script>
 ```
 
 You can change jQuery selector
 
-## Extra samples
+## Samples
 
 See `simple_usage.html`
 
