@@ -1,24 +1,32 @@
-Pretty file upload button multiselect
-==============================
-
-EFFECT
-==========
-
-![alt text](http://i30.photobucket.com/albums/c316/Tilosag/effect.png "Logo Title Text 1")
-
+# Pretty file upload button multiselect
 
 Bootstrap 3 pretty file upload
 
-INCLUDE JS INTO UR PAGE
+Works for multi files and single files
 
-AND USE SCRIPT BELOW
+## Effect
 
-You can change jQuery selector.
+![alt text](http://i30.photobucket.com/albums/c316/Tilosag/boostrap-pfu.png)
 
-JS
-==========
+## Instructions
+
+Include JS into your page
+
+use script below
+
+## jQuery usage
+```javascript
+$( 'input[type="file"]' ).prettyFile();
 ```
-jQuery( document ).ready( function( $ ) {
-	$( 'input[type="file"]' ).prettyFile();
-});
-```
+
+You can change jQuery selector
+
+## Extra samples
+
+See `simple_usage.html`
+
+See `form_demo.html`
+
+<!--## Older versions of Bootstrap look
+
+![alt text](http://i30.photobucket.com/albums/c316/Tilosag/effect.png)<!--
