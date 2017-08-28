@@ -6,7 +6,7 @@ Works for multi files and single files
 
 ## Effect
 
-![alt text](http://i30.photobucket.com/albums/c316/Tilosag/boostrap-pfu.png "Logo Title Text 1")
+![Alt text](image.png?raw=true "Title")
 
 ## Requirements
 
